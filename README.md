@@ -22,7 +22,7 @@ To use DishMaster, simply input your ingredients and select the type of dish you
 
 ## Installation :gear:
 
-1. Clone this repository: `git clone https://github.com/<username>/DishMaster.git`
+1. Clone this repository: `git clone https://github.com/Illia-the-coder/DishMaster.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your OpenAI API key to the code: `openai.api_key = 'YOUR_API_KEY'`
 4. Run the code: `python dishmaster.py`
