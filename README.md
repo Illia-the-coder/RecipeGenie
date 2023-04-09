@@ -18,7 +18,7 @@ To use DishMaster, simply input your ingredients and select the type of dish you
 
 - [OpenAI API Key](https://beta.openai.com/signup)
 - [Telegraph account](https://telegraph.p3k.io)
-- [PyWebIO](https://github.com/webio/pywebio)
+- [PyWebIO](https://github.com/pywebio)
 
 ## Installation :gear:
 
